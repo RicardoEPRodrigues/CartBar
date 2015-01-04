@@ -7,7 +7,7 @@ There is an up and running example of the website at
 http://web.tecnico.ulisboa.pt/ist173997/appyday/splashscreen.php?mesa=4
 
 ```
-### NOTE:
+### NOTES
 - The website has errors and is not fully complete (prototype only)
 - The website is running in a university webserver and maybe become unavailable
 ```
