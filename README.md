@@ -11,7 +11,7 @@ http://web.tecnico.ulisboa.pt/ist173997/appyday/splashscreen.php?mesa=4
 - The website is running in a university webserver and maybe become unavailable
 
 
-Created by:
+### Created by:
 * Ricardo Rodrigues
 * Daniel Castro
 * Ian Flores
