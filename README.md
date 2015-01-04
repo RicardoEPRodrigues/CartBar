@@ -6,11 +6,10 @@ Website, devolped in a 24 hour contest for mobile apps, with the intent to creat
 There is an up and running example of the website at
 http://web.tecnico.ulisboa.pt/ist173997/appyday/splashscreen.php?mesa=4
 
-```
 ### NOTES
 - The website has errors and is not fully complete (prototype only)
 - The website is running in a university webserver and maybe become unavailable
-```
+
 
 Created by:
 * Ricardo Rodrigues
